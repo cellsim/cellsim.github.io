@@ -1,0 +1,5 @@
+Component: main
+Origin: Cellsim
+Label: Cellsim
+Architecture: amd64
+Description: Cellular network bandwidth simulator

@@ -1,0 +1,7 @@
+Origin: Cellsim
+Label: Cellsim
+Codename: buster
+Architectures: arm64 amd64
+Components: main
+Description: Cellular network bandwidth simulator
+SignWith: 452BD3E5EA00D443C83551830027DB5F7C0DA430
