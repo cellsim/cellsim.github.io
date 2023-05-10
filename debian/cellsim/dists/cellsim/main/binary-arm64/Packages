@@ -2,13 +2,13 @@ Package: cellsim
 Version: 1.0
 Architecture: arm64
 Maintainer: Jeromy Fu
-Priority: optional
+Priority: 1
 Section: main
 Filename: pool/main/c/cellsim/cellsim_1.0_arm64.deb
-Size: 2131412
-SHA256: c19c9c49508dfa20899d2f07504050b12e10ac59cf53364d3b04babc8a4d6fba
-SHA1: f55feb180dbdd22f905d1b5eed3adde6df33329b
-MD5sum: 3632b8e54030ab07e5bd7ecd01b94b85
+Size: 2163704
+SHA256: 4b98fac8c10d3ea430ae60b089627284544bccbc8173a4a69477d76e463f181a
+SHA1: c7ccddb518d2a8c2989e4a7c6f5203f55898b0e7
+MD5sum: 0baea6bb15b04df1ea74d4770642ef2e
 Description: Cellsim
  Cellular network bandwidth simulator
 

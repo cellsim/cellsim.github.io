@@ -2,13 +2,13 @@ Package: cellsim
 Version: 1.0
 Architecture: armhf
 Maintainer: Jeromy Fu
-Priority: optional
+Priority: 1
 Section: main
 Filename: pool/main/c/cellsim/cellsim_1.0_armhf.deb
-Size: 2097116
-SHA256: 84f8c36aa98b0b1e4dfe72aaab4c1f4acfedffd7064d3c68a3608140acdcf29f
-SHA1: e9587f445be0fcb25fc161773e183e7e7a8042dc
-MD5sum: dde027cb9730b920fbb9a1928929101f
+Size: 2093864
+SHA256: d77c017586cf0f5d287fe66397e072ddcd0d845bc152b5841d387566bd4601d8
+SHA1: 55d653669c44bcb10479d4008ea730314e0cd93a
+MD5sum: ebfd933a424e7b4eaeab78ebd20f67ab
 Description: Cellsim
  Cellular network bandwidth simulator
 
