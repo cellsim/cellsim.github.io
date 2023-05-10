@@ -1,0 +1,5 @@
+Component: main
+Origin: Cellsim
+Label: Cellsim
+Architecture: armhf
+Description: Cellular network bandwidth simulator

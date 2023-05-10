@@ -1,6 +1,6 @@
 Origin: Cellsim
 Label: Cellsim
-Codename: buster
+Codename: cellsim
 Architectures: armhf arm64 amd64
 Components: main
 Description: Cellular network bandwidth simulator
